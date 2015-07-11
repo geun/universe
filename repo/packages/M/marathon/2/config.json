@@ -25,6 +25,7 @@
           "type": "boolean"
         },
         "event-subscriber": {
+          "default": "http_callback",
           "description": "Event subscriber module to enable. Currently the only valid value is \"http_callback\".",
           "type": "string"
         },
